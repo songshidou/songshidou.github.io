@@ -6,5 +6,5 @@
 . \[IWQoS\] Zehua Guo, *Songshi Dou*, and Wenchao Jiang, \"Improving the Path Programmability for Software-Defined WANs under Multiple Controller Failures\", IEEE/ACM International Symposium on Quality of Service 2020. \[[PDF/20PG.pdf PDF]\]
 
 === Journal Papers
-. \[COMNET\] *Songshi Dou*, Guochun Miao, Zehua Guo, Chao Yao, Weiran Wu, and Yuanqing Xia, \"Matchmaker: Maintaining the Quality of Service for Software-Defined WANs under Multiple Controller Failures\", Elsevier Computer Networks, vol. 192, 2021, 108045. \[[PDF/21Matchmaker.pdf PDF]\]
+. \[COMNET\] *Songshi Dou*, Guochun Miao, Zehua Guo, Chao Yao, Weiran Wu, and Yuanqing Xia, \"Matchmaker: Maintaining Network Programmability for Software-Defined WANs under Multiple Controller Failures\", Elsevier Computer Networks, vol. 192, 2021, 108045. \[[PDF/21Matchmaker.pdf PDF]\]
 . \[TCOM\] Zehua Guo, *Songshi Dou*, Yi Wang, Sen Liu, Yang Xu, and Wendi Feng, \"HybridFlow: Achieving Load Balancing in Software-Defined WANs with Scalable Routing\", IEEE Transactions on Communications, 2021, 10.1109/TCOMM.2021.3074500. \[[SLIDES/21HybridFlow_slides.pdf Slides]\]
