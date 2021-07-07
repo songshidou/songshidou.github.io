@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter  
 ==Talks & Presentations
 
-. *ProgrammabilityMedic: Predictable Path Programmability Recovery under Multiple Controller Failures in SD-WANs* \n
+. *ProgrammabilityMedic: Predictable Path Programmability Recovery under Multiple Controller Failures in SD-WANs* \[[SLIDES/21PM_slides.pdf Slides]\] \n
 IEEE International Conference on Distributed Computing Systems 2021 (ICDCS'21) \n
 July 2021, Virtual
 . *Improving the Path Programmability for Software-Defined WANs under Multiple Controller Failures* \[[SLIDES/20PG_slides.pdf Slides]\] \n
