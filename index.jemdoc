@@ -7,7 +7,7 @@ M.S. candidate \n [https://ac.bit.edu.cn/ School of Automation] \n[https://engli
 Address: 5 Zhongguancun South, Beijing, 100081, China \n
 School Email: /songshidou/ \[@\] bit.edu.cn \n
 Personal Email: /songshidou/ \[@\] hotmail.com \n
-[Single_page_EN.pdf Here is a brief CV]
+[Curriculum_Vitae.pdf Here is a brief CV]
 ~~~
 
 == About me
@@ -16,12 +16,14 @@ I received the B.S. degree in Automation from [https://cce.ncepu.edu.cn/ School 
 
 == Research
 My research interests include 
-- Software-Defined Networking  
-- Traffic Engineering
+- Software-Defined Networking (SDN)
+- Data Center Network (DCN)
+- Network Function Virtualization (NFV)
+- Content Delivery Network (CDN)
 
 === News 
 - 7/2021: HERO is accepted by IEEE ICWS 2021.
-- 7/2021: Received The USENIX Student Grant.
+- 7/2021: Received The USENIX OSDI 2021 Student Grant.
 - 4/2021: HybridFlow is accepted by IEEE Transactions on Communications.
 - 3/2021: Matchmaker is accepted by Elsevier Computer Networks.
 - 3/2021: ProgrammabilityMedic is accepted by IEEE ICDCS 2021.
