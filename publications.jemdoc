@@ -2,12 +2,26 @@
 ==Publications
 
 === Conference Papers
-. \[*ICDCS*\]: *Songshi Dou*, Zehua Guo, and Yuanqing Xia, \"ProgrammabilityMedic: Predictable Path Programmability Recovery under Multiple Controller Failures in SD-WANs\", IEEE International Conference on Distributed Computing Systems 2021 (ICDCS'21). \[[PDF/21PM.pdf PDF]\]
-. \[*IWQoS*\]: Zehua Guo, *Songshi Dou*, and Wenchao Jiang, \"Improving the Path Programmability for Software-Defined WANs under Multiple Controller Failures\", IEEE/ACM International Symposium on Quality of Service 2020 (IWQoS'20). \[[PDF/20PG.pdf PDF]\]
-. \[*ICWS*\]: Yijun Sun, Zehua Guo, *Songshi Dou*, and Yuanqing Xia, \"Video Quality and Popularity-aware Video Caching in Content Delivery Networks\", IEEE International Conference on Web Services 2021 (ICWS'21).  \[[PDF/21Hero.pdf PDF]\]
+. *Songshi Dou*, Zehua Guo, and Yuanqing Xia\n
+[PDF/21PM.pdf ProgrammabilityMedic: Predictable Path Programmability Recovery under Multiple Controller Failures in SD-WANs]\n
+\[ICDCS'21\]: IEEE International Conference on Distributed Computing Systems 2021
+. Zehua Guo, *Songshi Dou*, and Wenchao Jiang\n
+[PDF/20PG.pdf Improving the Path Programmability for Software-Defined WANs under Multiple Controller Failures]\n
+\[IWQoS'20\]: IEEE/ACM International Symposium on Quality of Service 2020
+. Yijun Sun, Zehua Guo, *Songshi Dou*, and Yuanqing Xia\n
+[PDF/21Hero.pdf Video Quality and Popularity-aware Video Caching in Content Delivery Networks]\n
+\[ICWS'21\]: IEEE International Conference on Web Services 2021
 === Journal Papers
-. \[*COMNET*\]: *Songshi Dou*, Guochun Miao, Zehua Guo, Chao Yao, Weiran Wu, and Yuanqing Xia, \"Matchmaker: Maintaining Network Programmability for Software-Defined WANs under Multiple Controller Failures\", Elsevier Computer Networks, vol. 192, 108045, 2021. \[[PDF/21Matchmaker.pdf PDF]\]
-. \[*TON*\]: Zehua Guo, *Songshi Dou*, Sen Liu, Wendi Feng, Wenchao Jiang, Yang Xu, and Zhi-Li Zhang, \"Maintaining Control Resiliency and Flow Programmability in Software-Defined WANs During Controller Failures\", IEEE/ACM Transactions on Networking. \[[PDF/22RetroFlow+.pdf PDF]\]
-. \[*TCOM*\]: Zehua Guo, *Songshi Dou*, Yi Wang, Sen Liu, Wendi Feng, and Yang Xu, \"HybridFlow: Achieving Load Balancing in Software-Defined WANs with Scalable Routing\", IEEE Transactions on Communications, vol. 69, no. 8, pp. 5255-5268, Aug. 2021.  \[[PDF/21HybridFlow.pdf PDF]\] \[[SLIDES/21HybridFlow_slides.pdf Slides]\]
+. *Songshi Dou*, Guochun Miao, Zehua Guo, Chao Yao, Weiran Wu, and Yuanqing Xia\n
+[PDF/21Matchmaker.pdf Matchmaker: Maintaining Network Programmability for Software-Defined WANs under Multiple Controller Failures]\n
+\[COMNET'21\]: Elsevier Computer Networks, vol. 192, 108045, 2021
+. Zehua Guo, *Songshi Dou*, Sen Liu, Wendi Feng, Wenchao Jiang, Yang Xu, and Zhi-Li Zhang\n
+[PDF/22RetroFlow+.pdf Maintaining Control Resiliency and Flow Programmability in Software-Defined WANs During Controller Failures]\n
+\[TON'22\]: IEEE/ACM Transactions on Networking, Accepted.
+. Zehua Guo, *Songshi Dou*, Yi Wang, Sen Liu, Wendi Feng, and Yang Xu\n
+[PDF/21HybridFlow.pdf HybridFlow: Achieving Load Balancing in Software-Defined WANs with Scalable Routing]\n
+\[TCOM'21\]: IEEE Transactions on Communications, vol. 69, no. 8, pp. 5255-5268, Aug. 2021
 === Posters and Demos
-. \[*ICNP*\]: Yijun Sun, Zehua Guo, *Songshi Dou*, Junjie Zhang, Changlin Li, and Xiang Ouyang, \"Poster: Enabling Fast Forwarding in Hybrid Software-Deﬁned Networks\", IEEE International Conference on Network Protocols 2021 (ICNP'21) Poster.  \[[PDF/21Shortcutter.pdf PDF]\]
+. Yijun Sun, Zehua Guo, *Songshi Dou*, Junjie Zhang, Changlin Li, and Xiang Ouyang\n
+[PDF/21Shortcutter.pdf Poster: Enabling Fast Forwarding in Hybrid Software-Deﬁned Networks]\n
+\[ICNP'21\]: IEEE International Conference on Network Protocols 2021 Poster

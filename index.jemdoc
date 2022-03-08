@@ -12,7 +12,7 @@ Personal Email: /songshidou/ \[@\] hotmail.com \n
 ~~~
 
 == About me
-I received the B.S. degree in Automation from [https://cce.ncepu.edu.cn/ School of Control and Computer Engineering], [https://english.ncepu.edu.cn/ North China Electric Power University (NCEPU)] in 2019. I am now a 3rd year master student majoring in Control Engineering from [https://ac.bit.edu.cn/ School of Automation], [https://english.bit.edu.cn/ Beijing Institute of Technology (BIT)], under the supervision of 
+I received my B.E. degree in Automation from the [https://cce.ncepu.edu.cn/ School of Control and Computer Engineering], [https://english.ncepu.edu.cn/ North China Electric Power University (NCEPU)] in 2019. I am now a 3rd-year master's student majoring in Control Engineering at the [https://ac.bit.edu.cn/ School of Automation], [https://english.bit.edu.cn/ Beijing Institute of Technology (BIT)], under the supervision of 
  [https://guolizihao.github.io/ Prof. Zehua Guo].
 
 == Research
@@ -22,7 +22,8 @@ My research interests include
 - Network Function Virtualization (NFV)
 - Content Delivery Network (CDN)
 
-=== News 
+~~~
+== News 
 - 10\/2021: RetroFlow+ is accepted by IEEE\/ACM Transactions on Networking.
 - 9\/2021: Received 2021 National Scholarship Award.
 - 9\/2021: Shortcutter is accepted by IEEE ICNP 2021.
@@ -31,6 +32,7 @@ My research interests include
 - 4\/2021: HybridFlow is accepted by IEEE Transactions on Communications.
 - 3\/2021: Matchmaker is accepted by Elsevier Computer Networks.
 - 3\/2021: ProgrammabilityMedic is accepted by IEEE ICDCS 2021.
+~~~
 
 [publications.html Full list of publications].
 
