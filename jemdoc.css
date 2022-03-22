@@ -14,7 +14,7 @@ body {
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	background: #F0FFFF;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -34,7 +34,7 @@ body {
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
-	padding-right: 1.0em;
+	padding-right: 45.0em;
     border: none;
     background: white;
     text-align: left;
