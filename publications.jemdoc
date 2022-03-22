@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 ==Publications
 
-=== Conference Papers
+=== Conference & Workshop Papers
 . *Songshi Dou*, Zehua Guo, and Yuanqing Xia\n
 [PDF/21PM.pdf ProgrammabilityMedic: Predictable Path Programmability Recovery under Multiple Controller Failures in SD-WANs]\n
 \[ICDCS'21\]: IEEE International Conference on Distributed Computing Systems 2021
@@ -15,6 +15,9 @@
 . Zehua Guo, *Songshi Dou*, Sen Liu, Wendi Feng, Wenchao Jiang, Yang Xu, and Zhi-Li Zhang\n
 [PDF/22RetroFlow+.pdf Maintaining Control Resiliency and Flow Programmability in Software-Defined WANs During Controller Failures]\n
 \[TON'22\]: IEEE/ACM Transactions on Networking, Accepted.
+. Haoran Ni, Zehua Guo, Changlin Li, *Songshi Dou*, Chao Yao, and Thar Baker\n
+[PDF/22NCRR.pdf Network Coding-based Resilient Routing for Maintaining Data Security and Availability in Software-Defined Networks]\n
+\[JNCA'22\]: Elsevier Journal of Network and Computer Applications, Accepted.
 . Zehua Guo, *Songshi Dou*, Yi Wang, Sen Liu, Wendi Feng, and Yang Xu\n
 [PDF/21HybridFlow.pdf HybridFlow: Achieving Load Balancing in Software-Defined WANs with Scalable Routing]\n
 \[TCOM'21\]: IEEE Transactions on Communications, vol. 69, no. 8, pp. 5255-5268, Aug. 2021
