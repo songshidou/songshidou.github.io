@@ -1,4 +1,0 @@
-python jemdoc.py index.jemdoc
-python jemdoc.py publications.jemdoc
-python jemdoc.py talks.jemdoc
-python jemdoc.py awards.jemdoc
